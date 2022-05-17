@@ -14,3 +14,10 @@ Steps to follow the Prometheus Monitoring
 [5] Configure Alertmanager configuration
 
 -----------------------------
+
+
+GITHUB sources:
+
+Archived: https://github.com/helm/charts/blob/master/stable/prometheus-operator/crds/crd-alertmanager.yaml
+
+Latest  : https://github.com/prometheus-community/helm-charts/tree/main/charts/kube-prometheus-stack
